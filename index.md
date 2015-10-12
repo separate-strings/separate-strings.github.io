@@ -27,10 +27,4 @@ image:
   <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
 </div><!-- /.tile -->
 
-
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-
-
 </div><!-- /.tiles -->

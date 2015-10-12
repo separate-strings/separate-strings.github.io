@@ -4,7 +4,7 @@ title: Separate Strings
 description:  "Single String Processing = Poly-Processing (so far called Hexaphonic or Polyphonic Guitars)"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: "Hoboken, NJ"
+locale:
 url:
 
 # Jekyll configuration
