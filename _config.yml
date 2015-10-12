@@ -21,8 +21,8 @@ gems:
 
 
 # Site owner
-owner: Matthias Grob
-  name: Matthias Grob
+owner:
+  name:
   email:
   twitter:
   google:
