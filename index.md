@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-image:
+image: wood-texture-1600x800.jpg
   feature: wood-texture-1600x800.jpg
 ---
 
