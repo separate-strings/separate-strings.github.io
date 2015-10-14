@@ -6,8 +6,8 @@ excerpt: "Where to buy all of the necessities."
 ads: true
 share: false
 image:
-  feature: lock-1600x800.jpg
-  teaser: lock-400x250.jpg
+  feature: waves.jpg
+  teaser: waves.jpg
   credit: Michael Rose
   creditlink: http://mademistakes.com
 ---
