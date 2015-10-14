@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /
-image: edm.jpg
-  feature: edm.jpg
+image: 
+  feature: wood-texture-1600x800jpg
 ---
 
 <div class="tiles">
