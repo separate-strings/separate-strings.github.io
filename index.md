@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: edm.jpg
+  feature:
 ---
 
 <div class="tiles">
