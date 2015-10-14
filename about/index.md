@@ -1,3 +1,4 @@
+
 ---
 layout: article
 title: "About"
@@ -17,3 +18,4 @@ its hard to start a site without knowing the name of it, or is it harder to find
 
 so far it was called "hexaphonic" and then (since we not always have six strings) "polyphonic" - which is taken for hundreds of years by another musical concept.
 if the name is supposed to be explanatory, it needs to emphasize the SINGLE string or SEPARATE string (well, does it need to be strings? channels?) rather than the polyphony, because our processing idea does not change the number of notes being heard, but the diferenciation - <b>each note may have its own sound and place in a room.</b>
+
