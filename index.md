@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-image:
+image: edm.jpg
   feature: edm.jpg
 ---
 
