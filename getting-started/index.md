@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Getting Started with Skinny Bones"
+title: "Welcome to Seperate Strings"
 date: 2014-06-25T13:57:25-04:00
 modified:
 excerpt:
@@ -12,7 +12,7 @@ image:
 share: false
 ---
 
-The basics for getting Skinny Bones setup.
+Each note may have its own sound and place in a room
 
 {% include toc.html %}
 
