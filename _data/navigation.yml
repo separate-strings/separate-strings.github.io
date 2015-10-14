@@ -3,24 +3,24 @@
 - title: Music
   url: /music/
   excerpt: "A directory of sounds."
-  image: 400x250.gif
+  image: synth.jpg
 
 - title: Gear
   url: /gear/
   excerpt: "Where to get the tools."
-  image: 400x250.gif
+  image: plugs.jpg
 
 - title: Media
   url: /media/
   excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
+  image: waves.jpg
 
 - title: History
   url: /history/
   excerpt: "Where it all began."
-  image: 400x250.gif
+  image: light_synth.jpg
 
 - title: About
   url: /about/
   excerpt: "All about Seperate Strings"
-  image: 400x250.gif
+  image: synth.jpg
