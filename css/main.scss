@@ -4,12 +4,14 @@ sitemap: false
 
 /*
  *
- *  Skinny Bones Jekyll Starter
+ *  Seperate Strings Jekyll
  *
- *  Designer: Michael Rose
- *  Twitter: http://twitter.com/mmistakes
+ *  Designer: Moenika Chowdhury
+ *  
  *
 */
+
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,600|Basic|Mallanna|Gafata|Bowlby+One+SC|Catamaran:400,300);
 
 @import "variables";
 
@@ -21,6 +23,13 @@ sitemap: false
 @import "grid-settings";
 @import "vendor/neat/neat";
 @import "vendor/font-awesome/font-awesome";
+
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Basic', sans-serif;
+font-family: 'Mallanna', sans-serif;
+font-family: 'Gafata', sans-serif;
+font-family: 'Bowlby One SC', cursive;
+font-family: 'Catamaran', sans-serif;
 
 /*
    Global
