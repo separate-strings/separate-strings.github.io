@@ -24,12 +24,10 @@ sitemap: false
 @import "vendor/neat/neat";
 @import "vendor/font-awesome/font-awesome";
 
-font-family: 'Titillium Web', sans-serif;
-font-family: 'Basic', sans-serif;
-font-family: 'Mallanna', sans-serif;
-font-family: 'Gafata', sans-serif;
-font-family: 'Bowlby One SC', cursive;
-font-family: 'Catamaran', sans-serif;
+h2 { font-family: 'Basic', sans-serif;}
+h3 { font-family: 'Mallanna', sans-serif;}
+h1 { font-family: 'Bowlby One SC', cursive;}
+
 
 /*
    Global
