@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Welcome to Seperate Strings"
+title: "Welcome to Separate Strings"
 date: 2014-06-25T13:57:25-04:00
 modified:
 excerpt:
