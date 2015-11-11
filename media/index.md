@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Separate Strings in the Media"
+title: "Sample Media Gallery"
 date: 2014-05-30T11:40:45-04:00
 modified:
-excerpt: "The application of the concepts."
+excerpt: "An archive of media posts, perfect for portfolios and galleries."
 tags: []
-image: edm.jpg
-  feature: edm.jpg
+image:
+  feature:
   teaser:
 ---
 
