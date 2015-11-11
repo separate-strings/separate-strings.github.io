@@ -18,7 +18,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <a href="/history/"><h2 class="post-title">History</h2></a>
+  <h2 class="post-title">History</h2>
   <p class="post-excerpt">Where it all began.</p>
 </div><!-- /.tile -->
 
