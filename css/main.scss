@@ -1,0 +1,63 @@
+---
+sitemap: false
+---
+
+/*
+ *
+ *  Seperate Strings Jekyll
+ *
+ *  Designer: Moenika Chowdhury
+ *  
+ *
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,600|Basic|Mallanna|Gafata|Bowlby+One+SC|Catamaran:400,300);
+
+@import "variables";
+
+/*
+   Vendor
+   ========================================================================== */
+
+@import "vendor/bourbon/bourbon";
+@import "grid-settings";
+@import "vendor/neat/neat";
+@import "vendor/font-awesome/font-awesome";
+
+h2 { font-family: 400 45px/0.5 'Basic', sans-serif;}
+h3 { font-family: 400 45px/0.5 'Mallanna', sans-serif;}
+h1 { font-family: 400 45px/0.5 'Bowlby One SC', cursive;}
+
+
+/*
+   Global
+   ========================================================================== */
+
+@import "mixins";
+@import "reset";
+@import "base";
+
+/*
+   Components
+   ========================================================================== */
+
+@import "helpers";
+@import "buttons";
+@import "badges";
+@import "bullets";
+@import "sliding-menu";
+@import "menu-navicons"; /* animated 3 line menu icon */
+@import "notices";
+@import "animations";
+@import "tiles";
+@import "footnotes";
+@import "toc"; /* table of contents */
+@import "breadcrumbs";
+@import "syntax";
+
+/*
+   Page specific
+   ========================================================================== */
+
+@import "layout";
+
