@@ -5,6 +5,11 @@ categories: articles
 excerpt: "Sa central problem of this marvelous technology is the connection between instrument and amplifier"
 tags: [intro, hexaphonic, test]
 ads: true
+image:
+  feature: sipo_flames.jpg
+  teaser: sipo_flames.jpg
+  credit: 
+  creditlink: 
 ---
 
 Distortion created the rock sound. It started from a technical limitation: When playing the guitar amps too loud, the clipping of the waves two very distinced effects:

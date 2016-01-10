@@ -7,7 +7,7 @@ tags: [intro, hexaphonic, test]
 ads: true
 image:
   feature: sipo_flames.jpg
-  teaser: sipo_flames.jpg
+  teaser: sipo-flames-thumb.jpg
   credit: 
   creditlink: 
 ---

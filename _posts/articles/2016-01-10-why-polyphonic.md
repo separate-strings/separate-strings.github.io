@@ -5,6 +5,11 @@ categories: articles
 excerpt: "Sa central problem of this marvelous technology is the connection between instrument and amplifier"
 tags: [intro, hexaphonic, test]
 ads: true
+image:
+  feature: sipo_flames.jpg
+  teaser: sipo_flames.jpg
+  credit: 
+  creditlink: 
 ---
 
 <b>What do we mean by Polyphonic?</b>
