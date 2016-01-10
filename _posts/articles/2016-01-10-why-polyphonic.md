@@ -1,16 +1,10 @@
 ---
 layout: media
-title: "Why Polyphonic Instruments?"
-date: 2014-05-30T11:39:03-04:00
+title: "Why Polyphonic Instruments"
 categories: articles
-modified:
-excerpt: "Remember the step from the mono to poly synthesizer? 
-The step from the monophonic to polyphonic guitar is not quite the same but of a similar order!
-We think its the next step to take, and technology is available, the music will follow"
-tags: []
-image: light_synth.jpg
-  feature:
-  teaser:
+excerpt: "Sa central problem of this marvelous technology is the connection between instrument and amplifier"
+tags: [intro, hexaphonic, test]
+ads: true
 ---
 
 <b>What do we mean by Polyphonic?</b>
@@ -38,10 +32,3 @@ Imitation of other kinds of guitars or pickups only works well when strings are 
 some of the effects immediately sound better for any kind of playing 
 others allow to play new sounds with the old guitar technique
 others need to be rehearsed, some need musical skills...
-
-
-<div class="tiles">
-{% for post in site.categories.articles %}
-  {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->

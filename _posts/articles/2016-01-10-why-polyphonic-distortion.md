@@ -1,14 +1,10 @@
 ---
 layout: media
-title: "Why Polyphonic Distortion?"
+title: "Why Polyphonic Distortion"
 categories: articles
-date: 2014-05-30T11:39:03-04:00
-modified:
-excerpt: "Distortion is most spread reason to treat strings separately, because it eliminates the intereference between strings. "
-tags: []
-image: light_synth.jpg
-  feature:
-  teaser:
+excerpt: "Sa central problem of this marvelous technology is the connection between instrument and amplifier"
+tags: [intro, hexaphonic, test]
+ads: true
 ---
 
 Distortion created the rock sound. It started from a technical limitation: When playing the guitar amps too loud, the clipping of the waves two very distinced effects:
@@ -24,9 +20,3 @@ Standard distortion used with only one string is very flexible and turns the gui
 With a mix of strings, distortion does something very different: Its a simple mathematical fact that any changes of a waveform that contains a mix of two frequencies produces the fundamental bass which contains both of those frequencies as harmonics. This effect and the resulting new frequencies are called interference. Interference can be harmonically related, making the sound richer, or unrelated, making it dirty. In musical terms, this means that depending on the intervals you play, a chord sounds fat or disharmonic. Octaves and quint (?) work well, smaller intervals become increasingly disturbing. Every guitar player using distortion knows this well, at least intuitively. Its what limits the harmonies used in standard guitar rock music. And its what makes musicians that use more sophisticated chords not use distortion! Although they may like the sustaining and enriching effect that distortion has on single strings!
 
 A Polyphonic Guitar offers the nice aspect of distortion for all musical styles without any harmonic limitations. It also makes solo work cleaner, because even the most clean guitar players cannot avoid that sometimes the transition between notes create interference.
-
-<div class="tiles">
-{% for post in site.categories.articles %}
-  {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
