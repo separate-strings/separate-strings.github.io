@@ -6,8 +6,8 @@ excerpt: "Where to buy all of the necessities."
 ads: true
 share: false
 image:
-  feature: ElgyFWredBG.jpg
-  teaser: ElgyFWredBG.jpg
+  feature: ElegyFWredBG.jpg
+  teaser: ElegyFWredBG.jpg
   credit: Michael Rose
   creditlink: http://mademistakes.com
 ---
