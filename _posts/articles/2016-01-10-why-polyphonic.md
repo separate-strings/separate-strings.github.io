@@ -6,7 +6,7 @@ excerpt: "Sa central problem of this marvelous technology is the connection betw
 tags: [intro, hexaphonic, test]
 ads: true
 image:
-  feature: EcholoopShot.jpg
+  feature: EcholoopShot.gif
   teaser: echo-thumb.jpg
   credit: 
   creditlink: 
