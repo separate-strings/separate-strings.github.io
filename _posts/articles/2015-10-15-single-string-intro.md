@@ -5,6 +5,11 @@ categories: articles
 excerpt: "Single String Processing = Poly-Processing (so far called Hexaphonic or Polyphonic Guitars)"
 tags: [intro, hexaphonic, test]
 ads: true
+image:
+  feature: sipo_flames.jpg
+  teaser: sipo_flames.jpg
+  credit: 
+  creditlink: 
 ---
 
 Single String Processing = Poly-Processing (so far called Hexaphonic or Polyphonic Guitars)

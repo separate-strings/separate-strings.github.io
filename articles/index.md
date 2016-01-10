@@ -3,7 +3,7 @@ layout: archive
 title: "Articles"
 date: 2014-05-30T11:40:45-04:00
 modified:
-excerpt: "An archive of media posts, perfect for portfolios and galleries."
+excerpt: "Learn more about separate strings in action."
 tags: []
 image:
   feature:
