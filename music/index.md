@@ -12,11 +12,8 @@ share: false
 ads: false
 ---
 
-its hard to start a site without knowing the name of it, or is it harder to find the name of something without a meeting point where we define what we want to name?
-<i>everyone is invited to contribute and critisize and we hope to find an agreement and finally give this 30 year old child a decent name which may spread its real value! </i>
+<iframe width="100%" height="700" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/12455059&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-so far it was called "hexaphonic" and then (since we not always have six strings) "polyphonic" - which is taken for hundreds of years by another musical concept.
-if the name is supposed to be explanatory, it needs to emphasize the SINGLE string or SEPARATE string (well, does it need to be strings? channels?) rather than the polyphony, because our processing idea does not change the number of notes being heard, but the diferenciation - <b>each note may have its own sound and place in a room.</b>
 
 <i>ABOUT MATTHIAS GROB:</i>
 
