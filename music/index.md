@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Music"
-date: 2014-06-02T09:44:20-04:00
-modified: 2014-08-27T14:56:44-04:00
+date: 2016-10-01T09:44:20-04:00
+modified: 2016-10-01T09:44:20-04:00
 excerpt: "Music From Seperate Strings"
 image: 
   feature:
@@ -12,7 +12,7 @@ share: false
 ads: false
 ---
 
-<iframe width="100%" height="700" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/12455059&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/12455059&amp;color=0066cc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
 <i>ABOUT MATTHIAS GROB:</i>
