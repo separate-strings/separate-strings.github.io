@@ -6,8 +6,8 @@ excerpt:
 ads: true
 share: false
 image:
-  feature: branch-1600x800.jpg
-  teaser: branch-400x250.jpg
+  feature: d_tuner.jpg
+  teaser: d_tuner.jpg
   credit: 
   creditlink: 
 ---
