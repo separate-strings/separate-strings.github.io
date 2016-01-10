@@ -6,8 +6,8 @@ excerpt: "Sa central problem of this marvelous technology is the connection betw
 tags: [intro, hexaphonic, test]
 ads: true
 image:
-  feature: sipo_flames.jpg
-  teaser: sipo_flames.jpg
+  feature: EcholoopShot.jpg
+  teaser: echp-thumb.jpg
   credit: 
   creditlink: 
 ---

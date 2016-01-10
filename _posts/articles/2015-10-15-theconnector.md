@@ -6,8 +6,8 @@ excerpt: "Sa central problem of this marvelous technology is the connection betw
 tags: [intro, hexaphonic, test]
 ads: true
 image:
-  feature: sipo_flames.jpg
-  teaser: sipo_flames.jpg
+  feature: FWElegyInside.jpg
+  teaser: wires-thumb.jpg
   credit: 
   creditlink: 
 ---
