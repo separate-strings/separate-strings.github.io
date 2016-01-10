@@ -12,7 +12,7 @@
 
 - title: Media
   url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  excerpt: "Separate Strings in action."
   image: waves.jpg
 
 - title: History
@@ -22,5 +22,5 @@
 
 - title: About
   url: /about/
-  excerpt: "All about Seperate Strings"
+  excerpt: "All about Separate Strings"
   image: synth.jpg

@@ -18,3 +18,7 @@ its hard to start a site without knowing the name of it, or is it harder to find
 so far it was called "hexaphonic" and then (since we not always have six strings) "polyphonic" - which is taken for hundreds of years by another musical concept.
 if the name is supposed to be explanatory, it needs to emphasize the SINGLE string or SEPARATE string (well, does it need to be strings? channels?) rather than the polyphony, because our processing idea does not change the number of notes being heard, but the diferenciation - <b>each note may have its own sound and place in a room.</b>
 
+<i>ABOUT MATTHIAS GROB:</i>
+
+Matthias as been working with electronics for 30 years, and programming for digital signal processing for 10 years, his experience as a performing musician and as sound engineer give him a unique insight into the making of intuitive user interfaces. As a result, he is a pioneer in polyphonic guitar effects with the PARADIS guitar, and is the inventor of Gibson's Digital Echoplex. Now, as a software programmer, he is working on inventions that would have been impractical or impossible using hardware.
+
