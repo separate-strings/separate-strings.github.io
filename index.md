@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: sipo-header.jpg
+  feature: paradis-1.jpg
 ---
 
 <div class="tiles">
