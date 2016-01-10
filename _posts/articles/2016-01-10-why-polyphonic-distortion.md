@@ -7,7 +7,7 @@ tags: [intro, hexaphonic, test]
 ads: true
 image:
   feature: distortion.jpg
-  teaser: distortion-thumb.jpg
+  teaser: distortion-web.jpg
   credit: 
   creditlink: 
 ---

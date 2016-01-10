@@ -7,7 +7,7 @@ tags: [intro, hexaphonic, test]
 ads: true
 image:
   feature: EcholoopShot.jpg
-  teaser: echp-thumb.jpg
+  teaser: echo-thumb.jpg
   credit: 
   creditlink: 
 ---
