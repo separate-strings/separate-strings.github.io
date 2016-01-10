@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 title: "Single String Processing"
 categories: articles
 excerpt: "Single String Processing = Poly-Processing (so far called Hexaphonic or Polyphonic Guitars)"
