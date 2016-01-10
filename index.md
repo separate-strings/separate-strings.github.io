@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: sipo_flames_crop.jpg
+  feature: sipo-header.jpg
 ---
 
 <div class="tiles">
