@@ -5,13 +5,14 @@ date: 2014-06-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
 excerpt: "About Seperate Strings"
 image: 
-  feature: 184-mg11.jpg
+  feature: sipo-header.jpg
   teaser:
   thumb:
 share: false
 ads: false
 ---
 
+<img width="20%" src="../images/184-mg11.jpg" />
 
 <i>ABOUT MATTHIAS GROB:</i>
 
