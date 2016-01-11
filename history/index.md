@@ -1,16 +1,23 @@
 ---
 layout: article
 title: "History"
-date: 2014-06-02T09:44:20-04:00
+date: 2016-01-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
 excerpt: "History of Separate Strings"
 image: 
-  feature:
+  feature: balancewhite-total.jpg
   teaser:
   thumb:
 share: false
 ads: false
 ---
+
+<div style="width: 30%; height: 500px; float: left;">
+<img width="100%" src="../images/Gitis_Mati.jpg" />
+</div>
+
+
+<div style="width: 70%; height: 500px; padding-left: 100px; float: left;">
 
 its hard to start a site without knowing the name of it, or is it harder to find the name of something without a meeting point where we define what we want to name?
 <i>everyone is invited to contribute and critisize and we hope to find an agreement and finally give this 30 year old child a decent name which may spread its real value! </i>
