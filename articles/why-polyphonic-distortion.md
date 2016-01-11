@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Why Polyphonic Distortion?"
-date: 2016-10-01T11:39:03-04:00
+date: 2016-01-10T11:39:03-04:00
 modified:
 excerpt: "Distortion is most spread reason to treat strings separately, because it eliminates the intereference between strings. "
 tags: []

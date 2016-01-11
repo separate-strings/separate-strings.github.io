@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Why Polyphonic Instruments?"
-date: 2016-10-01T11:39:03-04:00
+date: 2016-01-10T11:39:03-04:00
 modified:
 excerpt: "Remember the step from the mono to poly synthesizer? 
 The step from the monophonic to polyphonic guitar is not quite the same but of a similar order!

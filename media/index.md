@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Connecting Separate Strings"
-date: 2014-05-30T11:40:45-04:00
+title: 
+date: 2016-01-10T11:40:45-04:00
 modified:
 excerpt: "Tools to become an expert at the craft. "
 tags: []
 image:
-  feature:
+  feature: distortion.png
   teaser:
 ---
 

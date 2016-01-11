@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Articles"
-date: 2016-10-01T11:40:45-04:00
-modified:
+date: 2016-01-10T11:40:45-04:00
+modified: 2016-01-10
 excerpt: "Learn more about separate strings in action."
 tags: []
 image:

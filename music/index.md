@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Music"
-date: 2016-10-01T09:44:20-04:00
-modified: 2016-10-01T09:44:20-04:00
+date: 2016-01-10T09:44:20-04:00
+modified: 2016-01-10T09:44:20-04:00
 excerpt: "Music From Seperate Strings"
 image: 
   feature:

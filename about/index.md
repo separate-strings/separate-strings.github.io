@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "About"
-date: 2016-10-01T09:44:20-04:00
-modified: 2016-10-01T14:56:44-04:00
+date: 2016-01-10T09:44:20-04:00
+modified: 2016-01-10T14:56:44-04:00
 excerpt: "About Seperate Strings"
 image: 
   feature: sipo-header.jpg

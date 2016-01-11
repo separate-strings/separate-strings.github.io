@@ -2,7 +2,7 @@
 layout: article
 title: "History"
 date: 2016-01-02T09:44:20-04:00
-modified: 2014-08-27T14:56:44-04:00
+modified: 2016-01-10T14:56:44-04:00
 excerpt: "History of Separate Strings"
 image: 
   feature: balancewhite-total.jpg
