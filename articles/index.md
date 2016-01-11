@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Articles"
-date: 2014-05-30T11:40:45-04:00
+date: 2016-10-01T11:40:45-04:00
 modified:
 excerpt: "Learn more about separate strings in action."
 tags: []

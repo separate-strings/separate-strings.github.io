@@ -7,9 +7,7 @@ ads: true
 share: false
 image:
   feature: ElegyFWredBG.jpg
-  teaser: ElegyFWredBG.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  teaser: elegy-thumb.jpg
 ---
 
 <a href="http://www.roland.com/"><b>Roland/Boss </b></a>

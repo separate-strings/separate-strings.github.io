@@ -7,7 +7,7 @@ ads: true
 share: false
 image:
   feature: d_tuner.jpg
-  teaser: d_tuner.jpg
+  teaser: dtuner-thumb.jpg
   credit: 
   creditlink: 
 ---
