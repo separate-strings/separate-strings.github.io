@@ -13,7 +13,7 @@ ads: false
 ---
 
 <div style="width: 30%; height: 500px; float: left;">
-<img width="100%" src="../images/Gitis_Mati.jpg" />
+<img width="100%" src="../images/Gitis_Mati.Jpg" />
 </div>
 
 

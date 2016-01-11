@@ -3,24 +3,24 @@
 - title: Music
   url: /music/
   excerpt: "A directory of sounds."
-  image: synth.jpg
+  image: elegy-thumb.jpg
 
 - title: Articles
   url: /articles/
   excerpt: "Where to get the tools."
-  image: plugs.jpg
+  image: echo-thumb.jpg
 
 - title: Media
   url: /media/
   excerpt: "Separate Strings in action."
-  image: waves.jpg
+  image: wires-thumb.jpg
 
 - title: History
   url: /history/
   excerpt: "Where it all began."
-  image: light_synth.jpg
+  image: sipo-flames-thumb.jpg
 
 - title: About
   url: /about/
   excerpt: "All about Separate Strings"
-  image: synth.jpg
+  image: dtuner-thumb.jpg
