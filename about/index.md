@@ -16,7 +16,7 @@ ads: false
 </div>
 
 
-<div style="width: 70%; height: 500px; float: left;">
+<div style="width: 70%; height: 500px; padding-left: 100px; float: left;">
 
 <i>ABOUT MATTHIAS GROB:</i>
 
