@@ -11,10 +11,15 @@ image:
 share: false
 ads: false
 ---
+<div style="width: 50%; height: 500px; float: left;">
+<img width="40%" src="../images/184-mg11.jpg" />
+</div>
 
-<img width="20%" src="../images/184-mg11.jpg" />
+
+<div style="width: 50%; height: 500px; float: left;">
 
 <i>ABOUT MATTHIAS GROB:</i>
 
 Matthias as been working with electronics for 30 years, and programming for digital signal processing for 10 years, his experience as a performing musician and as sound engineer give him a unique insight into the making of intuitive user interfaces. As a result, he is a pioneer in polyphonic guitar effects with the PARADIS guitar, and is the inventor of Gibson's Digital Echoplex. Now, as a software programmer, he is working on inventions that would have been impractical or impossible using hardware.
 
+</div>
