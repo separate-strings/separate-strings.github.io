@@ -23,10 +23,9 @@ ads: false
 Matthias as been working with electronics for 30 years, and programming for digital signal processing for 10 years, his experience as a performing musician and as sound engineer give him a unique insight into the making of intuitive user interfaces. As a result, he is a pioneer in polyphonic guitar effects with the PARADIS guitar, and is the inventor of Gibson's Digital Echoplex. Now, as a software programmer, he is working on inventions that would have been impractical or impossible using hardware.
 
 </div>
-<br><br>
 
 <i> ABOUT THE WEBSITE CREATORS </i>
 
-<br>Moenika Chowdhury is a Music & Technology and Computer Science student at Stevens Institute of Technology in Hoboken, New Jersey. She is a musician with a passion for web development and building digital experiences. When approached with designing this website she went for a clean layout with a clear mission statement where Matthias could display his accomplishments and insight. She can be contacted at <i>mchowdh1@stevens.edu</i> for more information and inquiries. </br>
+<br><b>Moenika Chowdhury</b> is a Music & Technology and Computer Science student at Stevens Institute of Technology in Hoboken, New Jersey. She is a musician with a passion for web development and building digital experiences. When approached with designing this website she went for a clean layout with a clear mission statement where Matthias could display his accomplishments and insight. She can be contacted at <i>mchowdh1@stevens.edu</i> for more information and inquiries.
 
-<br>Ricky Graham is a professor at Stevens Institute of Technology [ADD INFO]</br>
+<br><b>Ricky Graham</b> is a professor at Stevens Institute of Technology [ADD INFO]
