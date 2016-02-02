@@ -24,3 +24,9 @@ Matthias as been working with electronics for 30 years, and programming for digi
 
 </div>
 <br><br>
+
+<i> ABOUT THE WEBSITE CREATORS </i>
+
+<br>Moenika Chowdhury is a Music & Technology and Computer Science student at Stevens Institute of Technology in Hoboken, New Jersey. She is a musician with a passion for web development and building digital experiences. When approached with designing this website she went for a clean layout with a clear mission statement where Matthias could display his accomplishments and insight. She can be contacted at <i>mchowdh1@stevens.edu</i> for more information and inquiries. </br>
+
+<br>Ricky Graham is a professor at Stevens Institute of Technology [ADD INFO]</br>
