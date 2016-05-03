@@ -263,6 +263,15 @@
 			@include font-size(32);
 		}
 	}
+
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+	color: $white;
+	@include media($large) {
+		background-size: cover;
+	}
 }
 // page header
 .page-feature {
