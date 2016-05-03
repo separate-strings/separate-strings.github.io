@@ -264,14 +264,11 @@
 		}
 	}
 
-	background-position: center top;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-position: center top !important;
+	background-repeat: no-repeat !important;
+	background-attachment: fixed !important;
 	text-align: center;
-	color: $white;
-	@include media($large) {
-		background-size: cover;
-	}
+    background-size: contain !important;
 }
 // page header
 .page-feature {
